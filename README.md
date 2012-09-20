@@ -1,0 +1,4 @@
+bingtranslation
+===============
+
+Bing Translation
